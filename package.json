@@ -1,0 +1,17 @@
+{
+  "name": "it-error-five-souls",
+  "version": "1.0.0",
+  "private": true,
+  "description": "IT ERROR \u2014 THE FIVE SOULS mobile game",
+  "scripts": {
+    "build": "echo Web files are in www",
+    "android:sync": "npx cap sync android"
+  },
+  "dependencies": {
+    "@capacitor/android": "^7.4.3",
+    "@capacitor/core": "^7.4.3"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^7.4.3"
+  }
+}

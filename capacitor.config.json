@@ -1,0 +1,8 @@
+{
+  "appId": "com.paeng.iterror",
+  "appName": "IT ERROR",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
